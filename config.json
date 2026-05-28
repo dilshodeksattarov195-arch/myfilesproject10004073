@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuncrypt",
+        "uuid": 18157434,
+        "checksum": "1hyuls"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
